@@ -1,9 +1,0 @@
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb

@@ -1,9 +1,0 @@
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\bin\Debug\netstandard2.0\LibraryEntitiesLib.deps.json
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\bin\Debug\netstandard2.0\LibraryEntitiesLib.dll
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\bin\Debug\netstandard2.0\LibraryEntitiesLib.pdb
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\obj\Debug\netstandard2.0\LibraryEntitiesLib.csprojAssemblyReference.cache
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\obj\Debug\netstandard2.0\LibraryEntitiesLib.AssemblyInfoInputs.cache
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\obj\Debug\netstandard2.0\LibraryEntitiesLib.AssemblyInfo.cs
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\obj\Debug\netstandard2.0\LibraryEntitiesLib.csproj.CoreCompileInputs.cache
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\obj\Debug\netstandard2.0\LibraryEntitiesLib.dll
-C:\Users\abrar\OneDrive\Documents\Code\PracticalApps\LibraryEntitiesLib\obj\Debug\netstandard2.0\LibraryEntitiesLib.pdb
