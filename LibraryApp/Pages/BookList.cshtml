@@ -1,0 +1,27 @@
+@page
+@model LibraryApp.Pages.BookListModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<div class="row">
+  <h1 class="display-2">Checked Books</h1>
+  <table class="table">
+    <thead class="thead-inverse">
+      <tr><th>Books</th></tr>
+    </thead>
+    <tbody>
+    @foreach(string title in Model.booklist)
+    {
+      <tr><td>@title</td></tr>
+    }
+    </tbody>
+  </table>
+</div>
+<div class="row">
+  <p>All books due: @DateTime.Today.AddDays(14)</p>
+</div>
+<div class="row">
+  <p>Enter a name for a new book:</p>
+  <form method="POST">
+    <div><input asp-for="Book.title" /></div>
+    <input type="submit" />
+  </form>
+</div>

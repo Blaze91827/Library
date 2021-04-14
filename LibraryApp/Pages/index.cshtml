@@ -1,0 +1,29 @@
+@page
+@functions
+{
+  public string DayName { get; set; }
+
+  public void OnGet()
+  {
+    ViewData["Title"] = "Library of Gagel Website"; 
+    Model.DayName = DateTime.Now.ToString("dddd");
+  }
+}
+<div class="jumbotron">
+  <h1 class="display-3">Welcome to the Library of Gagel!</h1>
+  <p class="lead">Books for everyone!</p>
+  <img class="d-block w-100" 
+    src="https://preview.redd.it/yr43uqtwyds31.jpg?width=1064&format=pjpg&auto=webp&s=924c2019c490db0dae12ba6cbda4a8fe1cb3101c" 
+    alt="Photo of Library" />
+  <hr />
+  <p>It's @Model.DayName!</p>
+  <p>
+    <a class="btn btn-primary" 
+       href="BookList">Look at your books</a>
+  </p>
+  <p>
+    <a class="btn btn-primary" href="titles">
+      Check out our books
+    </a>
+  </p>
+</div>
